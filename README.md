@@ -1,4 +1,4 @@
-# Delhi Metro Route & Schedule Simulator
+#Delhi Metro Route & Schedule Simulator
 
 ## Project Overview
 This project is a Python-based application that simulates the **Delhi Metro Rail Corporation (DMRC)** network, specifically focusing on the **Blue Line**, **Blue Line Branch (Vaishali)**, and **Magenta Line**. 
