@@ -1,0 +1,83 @@
+Blue | Dwarka Sector 21 | 0
+Blue | Dwarka Sector 8 | 3
+Blue | Dwarka Sector 9 | 6
+Blue | Dwarka Sector 10 | 9
+Blue | Dwarka Sector 11 | 11
+Blue | Dwarka Sector 12 | 14
+Blue | Dwarka Sector 13 | 16
+Blue | Dwarka Sector 14 | 19
+Blue | Dwarka | 22
+Blue | Dwarka Mor | 25
+Blue | Nawada | 28
+Blue | Uttam Nagar West | 31
+Blue | Uttam Nagar East | 33
+Blue | Janakpuri West | 36
+Blue | Janakpuri East | 39
+Blue | Tilak Nagar | 42
+Blue | Subhash Nagar | 45
+Blue | Tagore Garden | 48
+Blue | Rajouri Garden | 51
+Blue | Ramesh Nagar | 54
+Blue | Moti Nagar | 57
+Blue | Kirti Nagar | 60
+Blue | Shadipur | 63
+Blue | Patel Nagar | 66
+Blue | Rajendra Place | 69
+Blue | Karol Bagh | 72
+Blue | Jhandewalan | 75
+Blue | RK Ashram Marg | 78
+Blue | Rajiv Chowk | 81
+Blue | Barakhamba Road | 84
+Blue | Mandi House | 86
+Blue | Supreme Court | 88
+Blue | Indraprastha | 91
+Blue | Yamuna Bank | 94
+Blue | Akshardham | 98
+Blue | Mayur Vihar-I | 101
+Blue | Mayur Vihar Ext | 104
+Blue | New Ashok Nagar | 107
+Blue | Noida Sector 15 | 110
+Blue | Noida Sector 16 | 112
+Blue | Noida Sector 18 | 115
+Blue | Botanical Garden | 118
+Blue | Noida Golf Course | 121
+Blue | Noida City Centre | 124
+Blue | Noida Sector 34 | 127
+Blue | Noida Sector 52 | 130
+Blue | Noida Sector 61 | 133
+Blue | Noida Sector 59 | 136
+Blue | Noida Sector 62 | 139
+Blue | Noida Electronic City | 142
+Blue-Branch | Yamuna Bank | 94
+Blue-Branch | Laxmi Nagar | 97
+Blue-Branch | Nirman Vihar | 100
+Blue-Branch | Preet Vihar | 103
+Blue-Branch | Karkar Duma | 106
+Blue-Branch | Anand Vihar ISBT | 109
+Blue-Branch | Kaushambi | 112
+Blue-Branch | Vaishali | 115
+Magenta | Janakpuri West | 0
+Magenta | Dabri Mor | 4
+Magenta | Dashrath Puri | 7
+Magenta | Palam | 11
+Magenta | Sadar Bazaar Cantonment | 14
+Magenta | Terminal 1 IGI | 18
+Magenta | Shankar Vihar | 23
+Magenta | Vasant Vihar | 27
+Magenta | Munirka | 30
+Magenta | RK Puram | 33
+Magenta | IIT Delhi | 36
+Magenta | Hauz Khas | 39
+Magenta | Panchsheel Park | 42
+Magenta | Chirag Delhi | 45
+Magenta | Greater Kailash | 48
+Magenta | Nehru Enclave | 51
+Magenta | Kalkaji Mandir | 54
+Magenta | Okhla NSIC | 57
+Magenta | Sukhdev Vihar | 60
+Magenta | Jamia Millia Islamia | 63
+Magenta | Okhla Vihar | 66
+Magenta | Jasola Vihar Shaheen Bagh | 69
+Magenta | Kalindi Kunj | 73
+Magenta | Okhla Bird Sanctuary | 76
+Magenta | Botanical Garden | 80
